@@ -1,0 +1,180 @@
+application/gzip
+Started analysis of 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 5% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 10% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 15% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 20% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 25% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 30% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 35% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 40% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 45% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 50% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 55% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 60% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 65% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 70% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 75% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 80% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 85% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 90% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 95% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Analysis complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+	Command being timed: "fastqc -o /home/spratap/bgmp/bioinfo/Bi623/QAA/fastqc_out /projects/bgmp/shared/2017_sequencing/demultiplexed/24_4A_control_S18_L008_R1_001.fastq.gz"
+	User time (seconds): 42.67
+	System time (seconds): 1.82
+	Percent of CPU this job got: 92%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:48.01
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 236492
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 46087
+	Voluntary context switches: 3565
+	Involuntary context switches: 1956
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2432
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+application/gzip
+Started analysis of 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 5% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 10% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 15% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 20% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 25% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 30% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 35% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 40% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 45% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 50% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 55% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 60% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 65% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 70% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 75% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 80% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 85% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 90% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 95% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Analysis complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+	Command being timed: "fastqc -o /home/spratap/bgmp/bioinfo/Bi623/QAA/fastqc_out /projects/bgmp/shared/2017_sequencing/demultiplexed/24_4A_control_S18_L008_R2_001.fastq.gz"
+	User time (seconds): 40.65
+	System time (seconds): 1.99
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:43.50
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 231944
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 45209
+	Voluntary context switches: 2725
+	Involuntary context switches: 1900
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2432
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+application/gzip
+Started analysis of 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 5% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 10% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 15% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 20% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 25% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 30% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 35% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 40% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 45% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 50% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 55% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 60% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 65% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 70% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 75% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 80% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 85% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 90% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 95% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Analysis complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+	Command being timed: "fastqc -o /home/spratap/bgmp/bioinfo/Bi623/QAA/fastqc_out /projects/bgmp/shared/2017_sequencing/demultiplexed/15_3C_mbnl_S11_L008_R1_001.fastq.gz"
+	User time (seconds): 31.14
+	System time (seconds): 1.36
+	Percent of CPU this job got: 97%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:33.37
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 227084
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 43413
+	Voluntary context switches: 2242
+	Involuntary context switches: 1571
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2352
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+application/gzip
+Started analysis of 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 5% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 10% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 15% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 20% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 25% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 30% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 35% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 40% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 45% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 50% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 55% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 60% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 65% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 70% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 75% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 80% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 85% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 90% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 95% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Analysis complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+	Command being timed: "fastqc -o /home/spratap/bgmp/bioinfo/Bi623/QAA/fastqc_out /projects/bgmp/shared/2017_sequencing/demultiplexed/15_3C_mbnl_S11_L008_R2_001.fastq.gz"
+	User time (seconds): 32.43
+	System time (seconds): 1.50
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:34.40
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 220436
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 39229
+	Voluntary context switches: 2163
+	Involuntary context switches: 1485
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2400
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

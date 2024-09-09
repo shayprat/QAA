@@ -62,6 +62,22 @@ ______                    _
 
     - *Sanity check*: Use your Unix skills to search for the adapter sequences in your datasets and confirm the expected sequence orientations. Report the commands you used, the reasoning behind them, and how you confirmed the adapter sequences.
 
+``` (base) [spratap@n0349 QAA]$ zcat /projects/bgmp/shared/2017_sequencing/demultiplexed/24_4A_control_S18_L008_R1_001.fastq.gz | grep "AGATCGGAAGAGCACACGTCTGAACTCCAGTCA" | wc -l ```
+8025
+```(base) [spratap@n0349 QAA]$ zcat /projects/bgmp/shared/2017_sequencing/demultiplexed/24_4A_control_S18_L008_R1_001.fastq.gz | grep "AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT" | wc -l```
+0
+
+```(base) [spratap@n0349 QAA]$ zcat /projects/bgmp/shared/2017_sequencing/demultiplexed/24_4A_control_S18_L008_R2_001.fastq.gz | grep "AGATCGGAAGAGCACACGTCTGAACTCCAGTCA" | wc -l```
+0
+```(base) [spratap@n0349 QAA]$ zcat /projects/bgmp/shared/2017_sequencing/demultiplexed/24_4A_control_S18_L008_R2_001.fastq.gz | grep "AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT" | wc -l ```
+8484
+
+```(base) [spratap@n0349 QAA]$ zcat /projects/bgmp/shared/2017_sequencing/demultiplexed/15_3C_mbnl_S11_L008_R1_001.fastq.gz | grep "AGATCGGAAGAGCACACGTCTGAACTCCAGTCA" | wc -l ```
+27393
+
+```(base) [spratap@n0349 QAA]$ zcat /projects/bgmp/shared/2017_sequencing/demultiplexed/15_3C_mbnl_S11_L008_R2_001.fastq.gz | grep "AGATCGGAAGAGCACACGTCTGAACTCCAGTCA" | wc -l ```
+0
+
 7. Use `Trimmomatic` to quality trim your reads. Specify the following, **in this order**:
     - LEADING: quality of 3
     - TRAILING: quality of 3

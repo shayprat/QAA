@@ -1,0 +1,56 @@
+TrimmomaticPE: Started with arguments:
+ -threads 32 /home/spratap/bgmp/bioinfo/Bi623/QAA/cutadapt_out/cut_15_3C_mbnl_S11_L008_R1_001.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/cutadapt_out/cut_15_3C_mbnl_S11_L008_R2_001.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/trimmomatic_output/trim_15_3C_mbnl_S11_L008_R1_001_P.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/trimmomatic_output/trim_15_3C_mbnl_S11_L008_R1_001_U.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/trimmomatic_output/trim_15_3C_mbnl_S11_L008_R2_001_P.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/trimmomatic_output/trim_15_3C_mbnl_S11_L008_R2_001_U.fastq.gz LEADING:3 TRAILING:3 SLIDINGWINDOW:5:15 MINLEN:35
+Quality encoding detected as phred33
+Input Read Pairs: 7806403 Both Surviving: 7418387 (95.03%) Forward Only Surviving: 377369 (4.83%) Reverse Only Surviving: 5675 (0.07%) Dropped: 4972 (0.06%)
+TrimmomaticPE: Completed successfully
+	Command being timed: "trimmomatic PE -threads 32 /home/spratap/bgmp/bioinfo/Bi623/QAA/cutadapt_out/cut_15_3C_mbnl_S11_L008_R1_001.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/cutadapt_out/cut_15_3C_mbnl_S11_L008_R2_001.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/trimmomatic_output/trim_15_3C_mbnl_S11_L008_R1_001_P.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/trimmomatic_output/trim_15_3C_mbnl_S11_L008_R1_001_U.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/trimmomatic_output/trim_15_3C_mbnl_S11_L008_R2_001_P.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/trimmomatic_output/trim_15_3C_mbnl_S11_L008_R2_001_U.fastq.gz LEADING:3 TRAILING:3 SLIDINGWINDOW:5:15 MINLEN:35"
+	User time (seconds): 363.76
+	System time (seconds): 6.40
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 6:14.43
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1087456
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 981385
+	Voluntary context switches: 72492
+	Involuntary context switches: 24371
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 448
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+TrimmomaticPE: Started with arguments:
+ -threads 32 /home/spratap/bgmp/bioinfo/Bi623/QAA/cutadapt_out/cut_24_4A_control_S18_L008_R1_001.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/cutadapt_out/cut_24_4A_control_S18_L008_R2_001.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/trimmomatic_output/trim_24_4A_control_S18_L008_R1_001_P.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/trimmomatic_output/trim_24_4A_control_S18_L008_R1_001_U.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/trimmomatic_output/trim_24_4A_control_S18_L008_R2_001_P.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/trimmomatic_output/trim_24_4A_control_S18_L008_R2_001_U.fastq.gz LEADING:3 TRAILING:3 SLIDINGWINDOW:5:15 MINLEN:35
+Quality encoding detected as phred33
+Input Read Pairs: 10515874 Both Surviving: 10245432 (97.43%) Forward Only Surviving: 255771 (2.43%) Reverse Only Surviving: 10811 (0.10%) Dropped: 3860 (0.04%)
+TrimmomaticPE: Completed successfully
+	Command being timed: "trimmomatic PE -threads 32 /home/spratap/bgmp/bioinfo/Bi623/QAA/cutadapt_out/cut_24_4A_control_S18_L008_R1_001.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/cutadapt_out/cut_24_4A_control_S18_L008_R2_001.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/trimmomatic_output/trim_24_4A_control_S18_L008_R1_001_P.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/trimmomatic_output/trim_24_4A_control_S18_L008_R1_001_U.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/trimmomatic_output/trim_24_4A_control_S18_L008_R2_001_P.fastq.gz /home/spratap/bgmp/bioinfo/Bi623/QAA/trimmomatic_output/trim_24_4A_control_S18_L008_R2_001_U.fastq.gz LEADING:3 TRAILING:3 SLIDINGWINDOW:5:15 MINLEN:35"
+	User time (seconds): 501.39
+	System time (seconds): 9.30
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 8:40.17
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 942088
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1358953
+	Voluntary context switches: 94149
+	Involuntary context switches: 39988
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 576
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
