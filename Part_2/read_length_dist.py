@@ -33,7 +33,7 @@ R1 = rl_distribution(R1)
 R2 = rl_distribution(R2)
 
  
-plt.hist([R1, R2],label=["R1","R2"], bins = 66, color =['goldenrod','cornflowerblue'])
+plt.hist([R1, R2],label=["R1","R2"], bins = 66, color =['teal','paleturquoise'])
 plt.yscale('log')
 plt.title(f'Trimmed Read Length Distrubtion - {output}')
 plt.xlabel("Read Length (bp)")
