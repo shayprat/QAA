@@ -381,7 +381,7 @@ length	count	expect	max.err	error counts
 98	5	0.0	3	2 3
 99	6	0.0	3	5 1
 101	324	0.0	3	1 255 62 6
-```
+
 
 Command line parameters: -a AGATCGGAAGAGCACACGTCTGAACTCCAGTCA -A AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT -o cut_15_3C_mbnl_S11_L008_R1_001.fastq.gz -p cut_15_3C_mbnl_S11_L008_R2_001.fastq.gz /projects/bgmp/shared/2017_sequencing/demultiplexed/15_3C_mbnl_S11_L008_R1_001.fastq.gz /projects/bgmp/shared/2017_sequencing/demultiplexed/15_3C_mbnl_S11_L008_R2_001.fastq.gz
 Processing paired-end reads on 1 core ...
@@ -628,7 +628,7 @@ length	count	expect	max.err	error counts
 99	2	0.0	3	0 0 2
 101	680	0.0	3	0 597 73 10
 
-
+```
 
 ____
 [Trimmomatic sbatch](Part_2/trimmomatic.sh)
