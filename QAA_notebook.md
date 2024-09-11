@@ -129,6 +129,7 @@ Read 2: `AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT`
 
 **Cutadapt output** (/home/spratap/bgmp/bioinfo/Bi623/QAA/Part_2/slurm-16026622.out)
 
+```
 Command line parameters: -a AGATCGGAAGAGCACACGTCTGAACTCCAGTCA -A AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT -o cut_24_4A_control_S18_L008_R1_001.fastq.gz -p cut_24_4A_control_S18_L008_R2_001.fastq.gz /projects/bgmp/shared/2017_sequencing/demultiplexed/24_4A_control_S18_L008_R1_001.fastq.gz /projects/bgmp/shared/2017_sequencing/demultiplexed/24_4A_control_S18_L008_R2_001.fastq.gz
 Processing paired-end reads on 1 core ...
 Finished in 152.698 s (14.521 µs/read; 4.13 M reads/minute).
@@ -380,7 +381,7 @@ length	count	expect	max.err	error counts
 98	5	0.0	3	2 3
 99	6	0.0	3	5 1
 101	324	0.0	3	1 255 62 6
-_____
+```
 
 Command line parameters: -a AGATCGGAAGAGCACACGTCTGAACTCCAGTCA -A AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT -o cut_15_3C_mbnl_S11_L008_R1_001.fastq.gz -p cut_15_3C_mbnl_S11_L008_R2_001.fastq.gz /projects/bgmp/shared/2017_sequencing/demultiplexed/15_3C_mbnl_S11_L008_R1_001.fastq.gz /projects/bgmp/shared/2017_sequencing/demultiplexed/15_3C_mbnl_S11_L008_R2_001.fastq.gz
 Processing paired-end reads on 1 core ...
